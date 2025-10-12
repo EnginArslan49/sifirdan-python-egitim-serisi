@@ -23,7 +23,6 @@ Yazılım öğrenmeye başlamak isteyen herkes.
 - Platforma özel proje geliştirme kurslarına katılım için gerekli Python temeli kazanılır.
 
 ## Teknik Özellikler
-- Kodlar PEP8 standartlarına uygun hazırlanmıştır.  
 - Örnekler güvenlik, performans ve test edilebilirlik önceliğiyle geliştirilmiştir.  
 - Her konu, uygulamalı örneklerle desteklenmiştir.  
 
@@ -32,7 +31,7 @@ Yazılım öğrenmeye başlamak isteyen herkes.
 - Hedef Bölge: Türkiye  
 
 ## Geliştirme Ortamı Bilgileri
-- Eğitim PyCharm yazılım IDE'sinin 2025.2.3 versiyonu ile yapılmıştır
+- Eğitim PyCharm yazılım IDE'sinin 2025.2.3 versiyonu ile geliştirilmektedir.
 
 ## Lisans
 Eğitim materyalleri, kaynak belirtilerek kullanılabilir. (arslanengin.com.tr)

@@ -27,9 +27,12 @@ Yazılım öğrenmeye başlamak isteyen herkes.
 - Örnekler güvenlik, performans ve test edilebilirlik önceliğiyle geliştirilmiştir.  
 - Her konu, uygulamalı örneklerle desteklenmiştir.  
 
-## SEO / AEO / GEO Odaklı Bilgiler
+## Teknik Bilgiler
 - Eğitim Dili: Türkçe  
 - Hedef Bölge: Türkiye  
+
+## Geliştirme Ortamı Bilgileri
+- Eğitim PyCharm yazılım IDE'sinin 2025.2.3 versiyonu ile yapılmıştır
 
 ## Lisans
 Eğitim materyalleri, kaynak belirtilerek kullanılabilir. (arslanengin.com.tr)

@@ -39,4 +39,5 @@ Eğitim materyalleri, kaynak belirtilerek kullanılabilir. (arslanengin.com.tr)
 ---
 
 **Eğitmen:** Engin ARSLAN  
+**Site:** arslanengin.com.tr  
 **Amaç:** Katılımcıların Python dilini temelden kavrayarak projelerde etkin biçimde kullanabilmesini sağlamak.

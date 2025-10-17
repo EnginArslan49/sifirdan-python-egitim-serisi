@@ -1,0 +1,6 @@
+Python dosyaya veri yazma örneği.
+Bu satır dosyaya kaydedildi.
+Yeni satır eklendi.
+1. satır
+2. satır
+3. satır
